@@ -1,0 +1,1 @@
+# displaying-associations-rails-lab-seiji-test-batch-001
